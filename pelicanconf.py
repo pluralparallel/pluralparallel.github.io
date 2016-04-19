@@ -40,15 +40,13 @@ DISQUS_SITENAME = "pluralparallel"
 GOOGLE_ANALYTICS= "UA-76598222-1"
 THEME = 'medius'
 MEDIUS_CATEGORIES = {
-    'Review': {
-        'description': 'A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas and dust, and dark matter.',
-        'logo': 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GalacticRotation2.svg/250px-GalacticRotation2.svg.png',
-        'thumbnail': 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NGC_3923_Elliptical_Shell_Galaxy.jpg/220px-NGC_3923_Elliptical_Shell_Galaxy.jpg'
+    'Nature': {
+        'description': "That what's you miss less when you miss it most.",
+        'thumbnail': 'http://thumbs.dreamstime.com/x/logo-de-nature-7533173.jpg'
     },
     'Coding': {
-        'description': 'A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas and dust, and dark matter.',
-        'logo': 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GalacticRotation2.svg/250px-GalacticRotation2.svg.png',
-        'thumbnail': 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NGC_3923_Elliptical_Shell_Galaxy.jpg/220px-NGC_3923_Elliptical_Shell_Galaxy.jpg'
+        'description': 'You type a few lines and sometimes it works.',
+        'thumbnail': 'https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg'
     }
 }
 MEDIUS_AUTHORS = {
@@ -61,7 +59,7 @@ MEDIUS_AUTHORS = {
     },
     'helmut': {
         'description': """
-            Nature is my home. Outdoors, mindfulness, challenges.
+            Nature is my home. Outdoors, mindfulness, challenges. I can speak French.
         """,
         'cover': '/images/climbersfingers.jpg',
         'image': 'https://lh6.googleusercontent.com/-zEMaXmWAhdI/AAAAAAAAAAI/AAAAAAAAAAA/eVdgsm3TIDU/s128-c-k/photo.jpg',

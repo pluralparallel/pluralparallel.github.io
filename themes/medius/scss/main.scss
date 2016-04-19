@@ -61,6 +61,7 @@ div.metabar-container {
 
 div.post-content, div.entry-content {
     font-family: $font-family-serif;
+    text-align:justify;
 
     h1, h2, h3, h4, h5, h6 {
         font-family: $font-family-sans;
@@ -375,7 +376,7 @@ div.page-container {
     div.entry-content {
         max-width: 700px;
         margin: 0 auto;
-        text-align: left;
+        text-align: justify;
         font-family: $font-family-serif;
         font-size: 18px;
         line-height: 1.5;
