@@ -1,0 +1,28 @@
+Title: Publishing a blog on GitHub using Pelican
+Date: 2010-12-03 10:20
+Modified: 2010-12-05 19:30
+Tags: pelican, publishing, python
+Slug: publishing-on-github-with-pelican
+Category: Coding
+Author: chris
+Status: draft
+SubTitle: (and CircleCI)
+Cover: https://lh3.googleusercontent.com/KIXTP_KCVSP_93updF2XkLzhzMiwQSKeweWMbe4HPwvOUJNIgiLisMOeTaQNZ3pNCThMAgYRorw5PNBkiA8CV3RkPFX20WmRHXM9GqWPeKbHVCDoDK83HXUF8YC6FB1RM73rLqHHEJ4dQaw0Kq6tQukYcZbBA_hRGVa6msV_gu2zg8E4mr_5r-OeqvMmh1KTkU4TSxxK_5DsTPFxEF34haEUQB6PyFXA56_R1rijGGRrY18JlWByVH6Ithwoy5LaPnwpCIFsBuDg2PB39Qyebr3gTOZkziSPxK3PM-_6NiIz6d48rUL2JWq64EFl5xNCSPFUEWW7uRYf_OgQ3NZPkCzmunCvCQsriD82D60v3Q8C2cQgWrn6MLwKi8H3AAlpUkQHdSk5Z37skeFfx6BW-bq9wbhaI3bkXfO_Apd6zPDGIhWfBHiFQVDPn3cKL5SB61oiv8NJYzMYVLZhOPxDuCXI5IglaoR3OVNnDeMtHrwnhvQtO8oZLHyLFlgzxc1xZxmYJ6NiwjfhBd0P0HXPpTie_izdy2BoK9ULtg7tdYg1RsfUQUhOKJ_18meF7SfjzVA=w1738-h976-no
+Thumbnail: https://lh3.googleusercontent.com/KIXTP_KCVSP_93updF2XkLzhzMiwQSKeweWMbe4HPwvOUJNIgiLisMOeTaQNZ3pNCThMAgYRorw5PNBkiA8CV3RkPFX20WmRHXM9GqWPeKbHVCDoDK83HXUF8YC6FB1RM73rLqHHEJ4dQaw0Kq6tQukYcZbBA_hRGVa6msV_gu2zg8E4mr_5r-OeqvMmh1KTkU4TSxxK_5DsTPFxEF34haEUQB6PyFXA56_R1rijGGRrY18JlWByVH6Ithwoy5LaPnwpCIFsBuDg2PB39Qyebr3gTOZkziSPxK3PM-_6NiIz6d48rUL2JWq64EFl5xNCSPFUEWW7uRYf_OgQ3NZPkCzmunCvCQsriD82D60v3Q8C2cQgWrn6MLwKi8H3AAlpUkQHdSk5Z37skeFfx6BW-bq9wbhaI3bkXfO_Apd6zPDGIhWfBHiFQVDPn3cKL5SB61oiv8NJYzMYVLZhOPxDuCXI5IglaoR3OVNnDeMtHrwnhvQtO8oZLHyLFlgzxc1xZxmYJ6NiwjfhBd0P0HXPpTie_izdy2BoK9ULtg7tdYg1RsfUQUhOKJ_18meF7SfjzVA=w1738-h976-no
+
+test
+
+> that's a test
+
+```python
+#! python code
+test
+cd ~;ls
+```
+
+
+Useful links:
+
+- [Setting up a blog with Pelican and GitHub Pages](http://cyrille.rossant.net/pelican-github/)
+
+
